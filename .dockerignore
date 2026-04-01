@@ -1,0 +1,13 @@
+data/chroma_db
+.env
+.venv
+.vscode
+.ruff_cache
+.idea
+.claude
+.DS_Store
+.git
+__pycache__
+*.pyc
+eval/eval.log
+README.md
